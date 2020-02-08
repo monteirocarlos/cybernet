@@ -51,11 +51,55 @@ letter-spacing: .1em;
 .btn {
 text-align: center;
 padding-top: 20px;
-margin-bottom: 40px;   
+margin-bottom: 60px;   
 }
 
 .btn:hover a {
 color: #51514F;
 border-color: #51514F;
+}
+
+.footer {
+width: 100%;
+background: #51514F;    
+color: #D9E0E6;
+padding: 20px 0px 0px 20px ;
+}
+
+
+.footer h3 {
+font-size: 18px;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: .1em;
+margin-bottom: 10px;
+}
+
+
+.footer_contato p {
+margin-top: 40px;
+}
+
+.footer_redes {
+padding-left: 300px;
+}
+
+.footer_redes ul li {
+line-height: 25px;
+}
+
+
+.footer_redes ul li img {
+width: 20px;
+height: 20px;
+margin-left: 10px;
+}
+
+.copy {
+width: 100%;
+background: #51514F;
+padding: 20px; 
+text-align: center;  
+color: #D9E0E6;
 }
 
