@@ -112,3 +112,33 @@ background: #D9E0E6;
 margin: 20px auto ;
 }
 
+
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+        
+.footer_redes {
+padding-left: 200px;
+}
+}
+      
+@media only screen and (max-width: 787px) {
+    
+.titulo {
+font-size: 24px;
+}
+    
+.logo img{
+height: 60px;  
+}
+    
+.erro img{
+height: 300px;  
+}
+    
+.footer_redes ul li img {
+margin-left: 0px;
+}  
+    
+.footer_redes {
+padding-left: 0px;
+}
+}
